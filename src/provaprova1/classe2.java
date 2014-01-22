@@ -12,4 +12,6 @@ package provaprova1;
  */
 public class classe2 {
     //prova prova
+    
+    private int porcamadonna;
 }
