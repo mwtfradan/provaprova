@@ -12,16 +12,7 @@ package provaprova1;
  */
 public class Provaprova1 {
 private int porcoddio;
-//ciao daniele
-//ciao ciao
-//prova
-//ciao ciao ciao
 
-//supercalifragilistichespo
-//francesco sta per fare un bel update!!! ore 18-08
-
-//prova dopo incasinamento ;D
-//sub sub sub
     /**
      * @param args the command line arguments
      */
