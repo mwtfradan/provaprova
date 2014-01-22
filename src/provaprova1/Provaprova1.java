@@ -11,7 +11,7 @@ package provaprova1;
  * @author Daniele
  */
 public class Provaprova1 {
-
+private int porcoddio;
     /**
      * @param args the command line arguments
      */
